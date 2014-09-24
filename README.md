@@ -3,7 +3,7 @@ forces-to-horses
 
 Chrome extension that replaces occurrences of 'forces' with 'horses'
 
-[Direct download of crx file](https://github.com/CraftThatBlock/forces-to-horses/blob/master/ForcesToHorse.crx?raw=true)
+[Direct download of crx file](https://github.com/CraftThatBlock/forces-to-horses/blob/master/Source.crx?raw=true)
 
 
 Installation

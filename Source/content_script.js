@@ -34,6 +34,9 @@ function handleText(textNode)
 
 	v = v.replace(/\bForces\b/g, "Horses");
 	v = v.replace(/\bforces\b/g, "horses");
+
+	v = v.replace(/\bForce\b/g, "Horse");
+	v = v.replace(/\bforce\b/g, "horse");
 	
 	textNode.nodeValue = v;
 }

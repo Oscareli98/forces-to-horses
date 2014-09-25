@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Forces to Horses",
+	"name": "Super Secret Magical Extension",
 	"version": "1.0",
-	"description": "Replaces the text 'forces' with 'horses'.",
+	"description": "Just wait and see.",
 	"content_scripts": 
 	[
 		{
